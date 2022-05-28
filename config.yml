@@ -1,0 +1,13 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenCensure"
+
+# Tutaj mozna ustawic liste slow ktore maja byc cenzurowane:
+words_to_be_censured:
+  - 'kurwa'
+  - 'kurwo'
+  - 'spierdalaj'
+
+censure: "[CENZURA]"
+
+# Tutaj mozna wlaczyc i wylaczyc informacje o pluginie:
+plugin_info: true
